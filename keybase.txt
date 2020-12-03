@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ilmang0
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ilmango.work
+  * I am ilmang0 (https://keybase.io/ilmang0) on keybase.
+  * I have a public key ASBmTPcZmOXJWSY-yRwWHzq6UMoIPmNNtErefTYOWVpIwAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120664cf71998e5c959263ec91c161f3aba50ca083e634db44ade7d360e595a48c00a",
+      "host": "keybase.io",
+      "kid": "0120664cf71998e5c959263ec91c161f3aba50ca083e634db44ade7d360e595a48c00a",
+      "uid": "40e2269c7a2517b71b20d4749b5d9519",
+      "username": "ilmang0"
+    },
+    "merkle_root": {
+      "ctime": 1606959406,
+      "hash": "3f5071842848e84685f9d9274b070519cb45bfcbd5e2bd2eb3b8b7af5295cb15617a002b2b14cf381f8cc623b4a710779bdcaa1cd6830b79c5b47c0db8f91576",
+      "hash_meta": "b2bbdd6c47c28da0811297d5e2d0e652d8729a5d4cc8637b76841d95ccd7dd16",
+      "seqno": 18295614
+    },
+    "service": {
+      "entropy": "fbLoTMEKuTZe9X5Z9MVy+/zP",
+      "hostname": "ilmango.work",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1606959457,
+  "expire_in": 504576000,
+  "prev": "1d0b0036ffd90619b87653cf8bb994d8e0e3ca4ccc91745ec6b052fec2b3ccc5",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZkz3GZjlyVkmPskcFh86ulDKCD5jTbRK3n02DllaSMAKp3BheWxvYWTESpcCFMQgHQsANv/ZBhm4dlPPi7mU2ODjykzMkXRexrBS/sKzzMXEIOhONhCs9RxPRkNMCb+DscVJx/DxcKS8oRYYzFZqQaiTAgHCo3NpZ8RA+9WMkDhUCDtOdUL4lHDUI86jClqY6kpxgmf22HRaYkV4hBzGxwUvWhkb2qjoLLuGow9NKeHcdCJkx+p28iXfAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAYMbhnvLFPdJ+AEewMdb4QSnQIURndM7opGWcJQaI8Qo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ilmang0
+
+==================================================================
