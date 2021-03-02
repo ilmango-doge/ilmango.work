@@ -18,6 +18,12 @@ title: ilmango's pencil case
 
 <br>
 
+# 得意なこと
+
+素早い入眠が得意です. (ここで言う入眠とは, おふとんに包まれてから眠りに落ちるまでのことを指します.)
+
+<br>
+
 # いろいろなリンクなど
 
 - [Twitter](https://twitter.com/ilmang0)
