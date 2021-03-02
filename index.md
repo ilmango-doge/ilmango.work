@@ -26,7 +26,7 @@ title: ilmango's pencil case
 
 - [GitHub](https://github.com/ilmango-doge)
 
-- [AtCoder](https://atcoder.jp/users/ilmango) &emsp; [![ilmango](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Filmango)](https://atcoder.jp/users/ilmango)
+- [AtCoder](https://atcoder.jp/users/ilmango) &nbsp; [![ilmango](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Filmango)](https://atcoder.jp/users/ilmango)
 
 - [Kaggle](https://www.kaggle.com/ilmango)
 
