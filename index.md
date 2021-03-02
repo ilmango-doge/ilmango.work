@@ -48,4 +48,4 @@ title: ilmango's pencil case
 
 ### その他
 
-- [PGP公開鍵](https://ilmango.work/)
+- [PGP公開鍵](https://keybase.io/ilmang0/pgp_keys.asc)
