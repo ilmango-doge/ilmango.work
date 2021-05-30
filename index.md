@@ -54,4 +54,4 @@ title: ilmango's pencil case
 
 ### その他
 
-<a href="ilmango-pubkey.asc" download="ilmango-pubkey.asc">PGP公開鍵</a>
+<a href="ilmango-pubkey.asc" download="pgp_pubkey.asc">PGP公開鍵</a>
